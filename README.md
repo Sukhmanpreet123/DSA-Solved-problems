@@ -1,1 +1,1 @@
-# DSA-Solved-problems
+# Leetcode-Solved-problems
